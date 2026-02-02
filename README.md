@@ -4,4 +4,4 @@
 
 My name is William from sydney. I love making things that are useful to me and have customization. Im currently working on my Personal-dashboard which is a dashboard with YAML customization :D
 
-https://hackatime-badge.hackclub.com/U09C832RGJW/Personal-Dashboard
+![Project stats](https://hackatime-badge.hackclub.com/U09C832RGJW/Personal-Dashboard)
